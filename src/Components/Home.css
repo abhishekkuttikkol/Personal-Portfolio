@@ -1,0 +1,42 @@
+@media screen and (max-width: 768px) {
+  .home__title {
+    margin-top: -20px;
+  }
+  .home_dp {
+    margin-left: -10px;
+    margin-bottom: 80px;
+  }
+}
+@media screen and (max-width: 390px) {
+  .home__title {
+    margin-top: -20px;
+  }
+  .home_dp {
+    width: 250px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .home__title {
+    margin-top: -20px;
+    font-size: 30px;
+  }
+  .home_dp {
+    width: 200px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .home__title {
+    margin-top: -20px;
+    font-size: 30px;
+  }
+  .home_dp {
+    width: 200px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+  }
+}
+
