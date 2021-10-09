@@ -19,46 +19,59 @@ function Works() {
         <div class="work__container bd-grid">
           <a href="https://petskaro.web.app/">
             <div class="work__img">
-              <img src={work7} alt="Petskaro -  Online Pet shop" />
+              <img
+                className="work__image"
+                src={work7}
+                alt="Petskaro -  Online Pet shop"
+              />
+              <p className="work_subtitle">Petskaro - online pet shop</p>
             </div>
           </a>
           <a href="https://olx-clone-0015.web.app/">
             <div class="work__img">
               <img src={work3} alt="OLX clone" />
+              <p className="work_subtitle">Online Classified Marketplace</p>
             </div>
           </a>
           <a href="https://disney-clone-0015.web.app/">
             <div class="work__img">
               <img src={work6} alt="Disney Clone" />
+              <p className="work_subtitle">Disney Clone</p>
             </div>
           </a>
           <a href="https://netflix-clone-0015.web.app/">
             <div class="work__img">
               <img src={work1} alt="Netflix Clone" />
+              <p className="work_subtitle">Netflix Clone</p>
             </div>
           </a>
           <a href="https://clone-c6896.web.app/">
             <div class="work__img">
               <img src={work2} alt="Google Drive Clone" />
+              <p className="work_subtitle">Google Drive Clone</p>
             </div>
           </a>
           <a href="https://tinder-clone-0015.web.app/">
             <div class="work__img">
               <img src={work8} alt="Tinder Clone" />
+              <p className="work_subtitle">MERN Stack Tinder Clone</p>
             </div>
           </a>
           <a href="https://tiktok-clone-0015.web.app/">
             <div class="work__img">
               <img src={work9} alt="TikTok Clone" />
+              <p className="work_subtitle">MERN Stack TikTok Clone</p>
             </div>
           </a>
           <a href="https://zoom-clone-0015.herokuapp.com/">
             <div class="work__img">
               <img src={work10} alt="Zoom Clone" />
+              <p className="work_subtitle">Zoom Clone</p>
             </div>
           </a>
           <div class="work__img">
             <img src={work5} alt="Youtube Clone" />
+            <p className="work_subtitle">Youtube Clone</p>
           </div>
         </div>
       </section>
