@@ -12,7 +12,7 @@ function Home() {
             Hi,
             <br />
             I'am <span class="home__title-color">Abhishek</span>
-            <br /> MERN Stack Developer
+            <br /> Frontend Developer
           </h1>
 
           <a href="#contact" class="button">

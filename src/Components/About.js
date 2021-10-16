@@ -14,9 +14,9 @@ function About() {
           </div>
 
           <div>
-            <h2 class="about__subtitle">I'am Abhishek</h2>
+            <h2 class="about__subtitle">I'am Abhishek P</h2>
             <p class="about__text">
-            I'am a MERN stack developer from Kannur , Kerala, India. i am a Self taught developer I use several online facility to develop my coding skills.
+            I'am a Frontend React developer from Kannur , Kerala, India. i am a Self taught developer I use several online facility to develop my coding skills.
             I enjoy taking complex problem and turning them into simple and beutiful interface designs. I also have the logic and structure of coding
             and always strive to write elegent and efficient code
             </p>
