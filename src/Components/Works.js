@@ -69,10 +69,12 @@ function Works() {
               <p className="work_subtitle">Zoom Clone</p>
             </div>
           </a>
+          <a href="https://stupefied-hamilton-931236.netlify.app/">
           <div class="work__img">
             <img src={work5} alt="Youtube Clone" />
             <p className="work_subtitle">Youtube Clone</p>
           </div>
+          </a>
         </div>
       </section>
     </div>
